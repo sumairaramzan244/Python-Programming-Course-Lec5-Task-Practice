@@ -8,7 +8,7 @@ In this practice task, I built a Student Report Card program in Python. The prog
 
 ---
 
-## What I Learned  
+## What I Learned    
 * `input()` function is used to take input from users like  Name, Class, Roll Number and Marks from the user  
 * f-string is used to display student information in a clean and formatted way  
 * `int()` casting is used to convert marks from string to number for comparison  
