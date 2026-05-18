@@ -1,5 +1,5 @@
 # Python Basics — Punjab Hunarmand Batch 3  
-This repository contains my Python code from Lecture 5 Practice Task at Punjab Hunarmand Program, Batch 3.  
+This repository contains my Python code from Lecture 5 Practice Task at Punjab Hunarmand Program, Batch 3  
 
 ---
 
